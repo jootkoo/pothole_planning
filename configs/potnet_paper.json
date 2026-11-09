@@ -1,0 +1,6 @@
+{
+  "dropout_after_conv3": null,
+  "dropout_after_conv5": null,
+  "bn_eps": 1e-5,
+  "bn_momentum": 0.1
+}
