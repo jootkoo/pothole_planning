@@ -22,5 +22,4 @@ Benchmark/results/
 # Scenario generated files
 scenarios/
 scenarios_old/
-generated/experiments/
-generated/scenarios/
+generated/
