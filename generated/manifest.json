@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+  "environments": 10,
+  "vehicle_variants": 4,
+  "experiments": 40,
+  "boundary_simplification_tolerance_m": 0.02,
+  "config": {
+    "road_length_range": [
+      50.0,
+      70.0
+    ],
+    "road_width_range": [
+      9.0,
+      13.0
+    ],
+    "pothole_count_range": [
+      0,
+      8
+    ],
+    "pothole_size_range": [
+      0.25,
+      1.0
+    ]
+  }
+}

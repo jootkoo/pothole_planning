@@ -1,0 +1,11 @@
+scenario_id,seed,generator_version,road_type,road_length_m,nominal_road_width_m,pothole_type,selected_pothole_type,requested_potholes,placed_potholes,placement,selected_placement,traffic_level,traffic_count,boundary_vertices_original,boundary_vertices_saved,boundary_simplification_tolerance_m
+generated_000000,42,1.1.0,straight,62.789,9.1,none,circular,0,0,none,random,none,0,122,4,0.02
+generated_000001,104771,1.1.0,gentle_curve,61.304,12.937,circular,circular,8,8,random,random,none,0,122,16,0.02
+generated_000002,209500,1.1.0,sharp_curve,68.613,11.38,circular,circular,8,8,random,random,none,0,122,24,0.02
+generated_000003,314229,1.1.0,s_curve,62.307,11.986,circular,circular,8,8,random,random,none,0,122,58,0.02
+generated_000004,418958,1.1.0,variable_width,56.158,10.542,circular,circular,8,8,random,random,none,0,122,27,0.02
+generated_000005,523687,1.1.0,straight,66.095,12.719,none,elliptical,0,0,none,random,none,0,122,4,0.02
+generated_000006,628416,1.1.0,gentle_curve,59.127,11.936,elliptical,elliptical,3,3,random,random,none,0,122,14,0.02
+generated_000007,733145,1.1.0,sharp_curve,54.273,12.668,elliptical,elliptical,5,5,random,random,none,0,122,24,0.02
+generated_000008,837874,1.1.0,s_curve,61.313,12.404,elliptical,elliptical,8,8,random,random,none,0,122,52,0.02
+generated_000009,942603,1.1.0,variable_width,59.682,11.244,elliptical,elliptical,5,5,random,random,none,0,122,26,0.02

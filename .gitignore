@@ -18,3 +18,9 @@ __pycache__/
 
 # Ignore results
 Benchmark/results/
+
+# Scenario generated files
+scenarios/
+scenarios_old/
+generated/experiments/
+generated/scenarios/

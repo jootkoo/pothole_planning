@@ -1,0 +1,6 @@
+{
+  "road_length_range": [50.0, 70.0],
+  "road_width_range": [9.0, 13.0],
+  "pothole_count_range": [0, 8],
+  "pothole_size_range": [0.25, 1.0]
+}
